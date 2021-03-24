@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning rust and elixir.
+- ⚡ Fun fact: I love rollerskating.
+
 <!--
 **gabeio/gabeio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
