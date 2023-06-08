@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning rust and elixir.
+- 🌱 I’m currently learning zig, rust and elixir.
 - ⚡ Fun fact: I love rollerskating.
 
 <!--
